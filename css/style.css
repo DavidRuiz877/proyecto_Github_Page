@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+div.tabla {
+    width: 40%;
+    margin: 0 auto 0 auto;
+}
+/* tr,th,td {
+    border: 1px solid #fb5b04;
+} */
+th {
+    border-top:  2px solid darkcyan;
+    border-bottom: 2px solid darkcyan;
+}
+table {
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+}
+th, td {
+    padding: 0.2em 0.6em 0.2em 0.6em; 
+}
+td {
+    text-align: center;
+}
+.floot {
+vertical-align: top;
+}
+.even-row {
+    background-color: rgb(204 204 204);
+}
